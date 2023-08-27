@@ -2,7 +2,7 @@
     "Vegetarian": [
          {
         "id": 100,
-        "name": "Veg Feast [izza",
+        "name": "Vegan Veggie",
         "price": "23.95",
         "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
         "classifications": {
@@ -11,7 +11,7 @@
         "assets": {
           "menu": [
             {
-              "url": "https://media.istockphoto.com/id/1364747500/photo/the-perfect-toppings.webp?b=1&s=170667a&w=0&k=20&c=8QskuCdIPh-lj5VAxcHyBYVtEPTmjKnaSWDaJTTy_ec="
+              "url": "https://assets.zumepizza.com/public/j4lb8iry.jpg"
             }
           ],
           "product_details_page": [
@@ -99,7 +99,7 @@
         "assets": {
           "menu": [
             {
-              "url": "https://images.unsplash.com/photo-1613564834361-9436948817d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1943&q=80"
+              "url": "https://assets.zumepizza.com/public/j4lb8iry.jpg"
             }
           ],
           "product_details_page": [
